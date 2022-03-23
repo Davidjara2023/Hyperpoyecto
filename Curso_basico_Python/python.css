@@ -1,0 +1,26 @@
+*{
+    background: rgb(204, 201, 201);
+}
+#cabezera{
+    text-align: center;
+}
+h1 {
+    background: blue;
+    color: wheat;
+    box-shadow: 300px;
+}
+
+#cabezera #tagline {
+  background-color: black;
+  color: wheat;
+  margin: 20px;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:  left;
+}
+strong{
+    color:blue
+}
+
